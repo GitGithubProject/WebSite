@@ -1,3 +1,10 @@
 theme: minima
 title: Welcome to the Website's homepage!
-description: Feel free to bookmark this to keep an eye on my project
+description: > # Feel free to bookmark this to keep an eye on my project "baseurl:"
+              write an awesome description sdfasdfasdfasdfasd. dsfasdfasdfdfasd.dfsad
+              dfasdfsddf.
+# social links
+twitter_username: dsafasdfasd
+github_username: sdfsdafasdf
+
+show_excerpts: adfsdfasdfasdfasd
